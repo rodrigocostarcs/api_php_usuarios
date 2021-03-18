@@ -7,6 +7,7 @@ Recursos:
 
 ● CRUD de usuário:
 - INSERIR: http://localhost/api_usuarios/api/inserirusuario.php (POST/ parâmetros: usuario, endereco, cidade, estado)
+- Editar: http://localhost/api_usuarios/api/editarusuario.php (PUT/ parâmetros: id, usuario, endereco, cidade, estado)
 
 ● Obter endereços: http://localhost/api_usuarios/api/getallenderecos.php (GET)
 ● Obter endereço por id: http://localhost/api_usuarios/api/getendereco.php (GET/ parâmetro id)
